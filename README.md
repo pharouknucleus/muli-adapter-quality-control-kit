@@ -8,7 +8,7 @@
 
 ## Contributions
 
-#### All contributions that can help improve this project will be entertained. Please do so by opening an issue
+All contributions that can help improve this project will be entertained. Please do so by opening an issue
 
 ## Maintainer
 @pharouknucleus
